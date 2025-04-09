@@ -1,4 +1,5 @@
 This is a simple mini compiler.
+
 Steps for running the project:
 run this command in the terminal-
 1) ./compile.bash
